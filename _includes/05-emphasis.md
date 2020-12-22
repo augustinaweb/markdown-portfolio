@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# OMG *this text is italic* but this one is not
+
+And **this text _is_ bold** but that on is not
